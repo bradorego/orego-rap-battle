@@ -1,6 +1,6 @@
 {
   "name": "rap-battle-2",
-  "app_id": "",
+  "app_id": "341d5f12",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
