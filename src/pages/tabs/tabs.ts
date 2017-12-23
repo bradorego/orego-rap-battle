@@ -5,6 +5,7 @@ import { RickMortyPage } from '../rickmorty/rickmorty';
 import { ArcherPage } from '../archer/archer';
 
 @Component({
+  selector: 'page-tabs',
   templateUrl: 'tabs.html'
 })
 export class TabsPage {
