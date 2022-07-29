@@ -1,8 +1,8 @@
 {
   "name": "orego-rap-battle",
-  "app_id": "341d5f12",
-  "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "ionic-angular",
+  "id": "341d5f12"
 }
